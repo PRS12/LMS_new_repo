@@ -19,23 +19,17 @@ A modern Learning Management System (LMS) for NGOs, built with React, TypeScript
 
 ### Installation
 
-1. Clone the repository:
-   ```sh
-   git clone <your-repo-url>
-   cd <project-directory>
-   ```
-
-2. Install dependencies:
+1. Install dependencies:
    ```sh
    npm install
    ```
 
-3. Start the development server:
+2. Start the development server:
    ```sh
    npm run dev
    ```
 
-4. Open [http://localhost:5173](http://localhost:5173) in your browser.
+3. Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ### Demo Credentials
 
